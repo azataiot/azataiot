@@ -9,4 +9,4 @@
 - ⚡ Fun fact: ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azataiot)](https://github.com/anuraghazra/github-readme-stats)
+[![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azataiot)](https://github.com/azataiot/github-readme-stats)
