@@ -3,14 +3,18 @@
 **Seeking a Frontend Companion in a Coding Adventure**
 
 Greetings from the backend realm! My journey has spanned from the grounds of IoT to the vast expanse of satellites, and now, into the financial wilderness. Curiosity fuels my expedition, constantly pushing the boundaries to discover the unknown. Yet, in this relentless pursuit, it's become clear that my quest has its limits.
+
 I am on a lookout for a frontend companion, a friend, a teammate. Together, we'll become a full-stack force, bridging the gap between the abstract and the visual, between data and interaction.
+
 If you are:
-A frontend enthusiast,
-Enthralled by the magic of coding,
-Eager to traverse the unknown,
-Always on a quest for learning,
+- A frontend enthusiast,
+- Enthralled by the magic of coding,
+- Eager to traverse the unknown,
+- Always on a quest for learning,
+
 Then, the stars might just have aligned for us to embark on this adventure together.
 This isn't a mere job proposition, but an invitation for a collaborative journey. It's a chance to mutually enrich our coding saga, potentially planting the seeds for a lasting friendship or even a groundbreaking startup project.
+
 I warmly encourage you to take a leap into this collaborative odyssey. 
 
 **And dear friends, should you know of noble souls fitting the description, feel free to spread the word.**
