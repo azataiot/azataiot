@@ -21,8 +21,6 @@ I warmly encourage you to take a leap into this collaborative odyssey.
 
 Let's explore the uncharted, solve the unsolvable, and code the future, together.
 
-[![](https://visitcount.itsvg.in/api?id=azataiot&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
 Stats (from Apr 14, 2023) - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fazataiot&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=azataiot&show_icons=true" alt="azataiot" />
 
